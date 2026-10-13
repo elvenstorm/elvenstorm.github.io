@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anibeep.app",
+      "sha256_cert_fingerprints": [
+        "FF:46:BD:3B:EC:80:39:ED:56:F7:B5:1B:37:D7:5D:F9:DF:26:EB:FD:1C:36:AE:80:1D:80:B9:12:E6:DE:03:26"
+      ]
+    }
+  }
+]
